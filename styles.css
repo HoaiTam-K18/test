@@ -1,0 +1,25 @@
+h1
+{
+    color: rgb(208, 37, 125);
+    
+}
+
+.body
+{
+    background-color: rgb(117, 157, 235);
+}
+
+#onlyone
+{
+    text-transform: uppercase;
+}
+
+.class
+{
+    color: black;
+}
+
+#id
+{
+    color: blue;
+}
